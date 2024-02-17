@@ -1,0 +1,47 @@
+.in1{
+    background-color: rgb(232, 153, 153);
+    margin-left: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.in2{
+    border-radius: 10px;
+}
+.container1{
+    display: grid;
+    grid-template-columns: 3fr 1fr 0.25fr ;
+}
+.in3{
+    background-color: rgba(99, 7, 7, 0.632);
+    margin-left: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.in4{
+    border-radius: 10px;
+}
+.container2{
+    display: grid;
+    grid-template-columns: 3fr 1fr 0.25fr ;
+}
+/* using margin padding and background color */
+.in5{
+    background-color: rgb(91, 167, 128);
+    margin-left: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.in6{
+    border-radius: 10px;
+}
+.container3{
+    display: grid;
+    grid-template-columns: 3fr 1fr 0.25fr ;
+}
+h2{
+    font-family:"Protest Riot", sans-serif;
+}
+body{
+    font-family: "Work Sans", sans-serif;
+    background-color: antiquewhite;
+}

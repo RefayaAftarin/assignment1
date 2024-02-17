@@ -1,0 +1,12 @@
+h2{
+    color: rgba(7, 99, 7, 0.886);
+    font-family: "Protest Riot", sans-serif;
+}
+body{
+    background-color: rgb(168, 206, 168);
+    font-family: "Work Sans", sans-serif;
+    padding: 10px;
+}
+img{
+    border-radius: 10px;
+}

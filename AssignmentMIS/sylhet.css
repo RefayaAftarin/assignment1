@@ -1,0 +1,17 @@
+h2{
+    color: rgb(98, 134, 62);
+    font-family: "Protest Riot", sans-serif;
+}
+body{
+    background-color: rgb(190, 219, 161);
+    font-family: "Work Sans", sans-serif;
+    padding: 10px;
+}
+img{
+    border-radius: 10px;
+}
+.container{
+    /* using display flex property */
+    display:flex
+    flex-direction:column reverse;
+}
